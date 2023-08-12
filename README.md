@@ -1,16 +1,21 @@
-### Hi there 👋
+### Saudações! Sou Jorge Fonantes👋😄
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-lucas-fonantes/)
 
-<!--
-**JorgeFonantes/JorgeFonantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Fonantes GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeFonantes&show_icons=true&theme=highcontrast)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFonantes)](https://github.com/JorgeFonantes/github-readme-stats)
+## Algumas das tecnologias que uso e estudo diariamente:
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Amo trabalhar e estudar tudo relacionado a tecnologia, também faço alguns conteúdos voltados para esse meio totalmente gratuitos
+
+
+### Últimos projetos:
+
+
