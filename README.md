@@ -13,8 +13,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <br></br>
 
- Amo trabalhar e estudar tudo relacionado a tecnologia, também faço alguns conteúdos voltados para esse meio totalmente gratuitos
-
+ Meu objetivo é criar interfaces responsivas, poderosas e de fácil acesso ao usuário. Prezo muito pela beleza e pelo user friendly.
 
 ### Últimos projetos:
 
